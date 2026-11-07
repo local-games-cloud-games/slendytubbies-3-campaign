@@ -1,13 +1,13 @@
 {
-  "name": "Slendytubbies 3 Campaign",
-  "author": "Local-Games-Cloud",
-  "version": "1.0.0",
-  "description": "Juego publicado en la Tienda de Local Games.",
-  "cover": "cover.jpg",
-  "logo": "logo.png",
-  "executable": "Games/Slendytubbies 3 Campaign.exe",
-  "archive": "game-comprimido.zip",
-  "mods": {
-    "available": false
-  }
+    "name":  "Slendytubbies 3 Campaign",
+    "author":  "ZeoWorks",
+    "version":  "1.0.0",
+    "description":  "Versión campaña de Slendytubbies 3. Juego creado por ZeoWorks.",
+    "cover":  "cover.jpg",
+    "logo":  "logo.png",
+    "executable":  "Games/Slendytubbies 3 Campaign.exe",
+    "archive":  "game-comprimido.zip",
+    "mods":  {
+                 "available":  false
+             }
 }
